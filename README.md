@@ -4,4 +4,6 @@ I am aware that coding with AI is the future, and I am not against it. However, 
 
 Projects here will be mostly dumb, meaningless, no-purpose projects. Similar to what old computer science students were building in their free time before AI.
 
+To be able to achieve this, I will try not to use any IDE as much as possible. I will be using NeoVim as my text editor.
+
 Note: Github is auto generating commit names when you update the Readme files. I might have pushed some code without noticing that. 
